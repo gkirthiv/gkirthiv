@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    background: #0f0c29;
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+    color: white;
+    height: 100%;
+}
+
+header {
+    position: absolute !important;
+}
+
+.intro-section {
+    margin: 0px auto;
+    height: 100%;
+    h1 {
+        font-size: 3.5rem;
+        margin-bottom: 10px;
+    }
+}
